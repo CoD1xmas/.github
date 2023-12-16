@@ -24,4 +24,5 @@
 - xp_hanoi_winter
 - xp_stadium
 - xp_toujane
+- zh_broadcast
 - zh_winter_plaza
